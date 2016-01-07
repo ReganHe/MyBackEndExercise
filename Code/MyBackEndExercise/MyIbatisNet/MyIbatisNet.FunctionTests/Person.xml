@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sqlMap namespace="Ibatis" xmlns="http://ibatis.apache.org/mapping" xmlns:xls="http://www.w3.org/2001/XMLSchema-instance">
+  <statements>
+    <select id="SelectAllPerson" resultClass="MyIbatisNet.Domain.PersonModel">
+      <!--这个Id在程序中会用到，resultClass是类所在的程序位置(带命名空间)-->
+      select * from person
+    </select>
+  </statements>
+</sqlMap>

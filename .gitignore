@@ -1,0 +1,7 @@
+*.suo
+Code/MyBackEndExercise/MyIbatisNet/MyIbatisNet.Dao/obj/
+Code/MyBackEndExercise/MyIbatisNet/MyIbatisNet.Domain/obj/
+Code/MyBackEndExercise/MyIbatisNet/MyIbatisNet.Domain/bin/
+Code/MyBackEndExercise/MyIbatisNet/MyIbatisNet.FunctionTests/bin/
+Code/MyBackEndExercise/MyIbatisNet/MyIbatisNet.FunctionTests/obj/
+Code/MyBackEndExercise/UnitTestProject1/obj/
