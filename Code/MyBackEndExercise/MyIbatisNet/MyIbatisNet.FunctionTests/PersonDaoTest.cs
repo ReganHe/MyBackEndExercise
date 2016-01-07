@@ -1,6 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using MyIbatisNet.Dao;
-using MyIbatisNet.Domain;
 
 namespace MyIbatisNet.FunctionTests
 {
@@ -8,7 +7,7 @@ namespace MyIbatisNet.FunctionTests
     public class PersonDaoTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void GetListTest()
         {
             var dao = new PersonDao();
             var listPerson = dao.GetList();
