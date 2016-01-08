@@ -11,6 +11,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyIbatisNet.Domain", "MyIba
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyIbatisNet.FunctionTests", "MyIbatisNet\MyIbatisNet.FunctionTests\MyIbatisNet.FunctionTests.csproj", "{508D1D9F-EA13-4D65-8EBE-96AEA99D7433}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MyDapper", "MyDapper", "{5279EE9C-B380-438A-B8E1-A5F3001495B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDapper.Business", "MyDapper\MyDapper.Business\MyDapper.Business.csproj", "{8062C745-4C36-4090-8F21-281AC327FFF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDapper.FunctionTests", "MyDapper\MyDapper.FunctionTests\MyDapper.FunctionTests.csproj", "{DED468DD-1192-4658-A661-4DBEE4FA0AD9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +35,14 @@ Global
 		{508D1D9F-EA13-4D65-8EBE-96AEA99D7433}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{508D1D9F-EA13-4D65-8EBE-96AEA99D7433}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{508D1D9F-EA13-4D65-8EBE-96AEA99D7433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8062C745-4C36-4090-8F21-281AC327FFF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8062C745-4C36-4090-8F21-281AC327FFF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8062C745-4C36-4090-8F21-281AC327FFF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8062C745-4C36-4090-8F21-281AC327FFF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DED468DD-1192-4658-A661-4DBEE4FA0AD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DED468DD-1192-4658-A661-4DBEE4FA0AD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DED468DD-1192-4658-A661-4DBEE4FA0AD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DED468DD-1192-4658-A661-4DBEE4FA0AD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -37,5 +51,7 @@ Global
 		{4C79B1F3-2C3F-4CFB-8905-9D0BE2343651} = {322F77A7-6B52-4B4F-9A19-02874F62C28E}
 		{BAC3067A-1F5D-425E-8292-8365282B6E74} = {322F77A7-6B52-4B4F-9A19-02874F62C28E}
 		{508D1D9F-EA13-4D65-8EBE-96AEA99D7433} = {322F77A7-6B52-4B4F-9A19-02874F62C28E}
+		{8062C745-4C36-4090-8F21-281AC327FFF0} = {5279EE9C-B380-438A-B8E1-A5F3001495B3}
+		{DED468DD-1192-4658-A661-4DBEE4FA0AD9} = {5279EE9C-B380-438A-B8E1-A5F3001495B3}
 	EndGlobalSection
 EndGlobal
