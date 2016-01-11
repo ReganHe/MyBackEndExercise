@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sqlMap namespace="Ibatis" xmlns="http://ibatis.apache.org/mapping" xmlns:xls="http://www.w3.org/2001/XMLSchema-instance">
+  <resultMaps>
+    <resultMap id="Person" Class="MyIbatisNet.Domain.PersonModel">
+      <result property="PersonId" column="Id"/>
+      <result property="PersonName" column="Name"/>
+    </resultMap>
+  </resultMaps>
+  <statements>
+    <select id="SelectAllPerson" resultMap="Person">
+      select * from person
+    </select>
+    
+    <select id="SelectAllPersonByPersonIdDesc" resultMap="Person" extends="SelectAllPerson">
+      ORDER BY Id desc
+    </select>
+  </statements>
+</sqlMap>

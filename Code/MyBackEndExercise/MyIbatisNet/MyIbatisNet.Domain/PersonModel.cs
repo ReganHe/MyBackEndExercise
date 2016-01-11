@@ -8,13 +8,13 @@ namespace MyIbatisNet.Domain
 {
     public class PersonModel
     {
-        public int Id
+        public int PersonId
         {
             get;
             set;
         }
 
-        public string Name
+        public string PersonName
         {
             get;
             set;
