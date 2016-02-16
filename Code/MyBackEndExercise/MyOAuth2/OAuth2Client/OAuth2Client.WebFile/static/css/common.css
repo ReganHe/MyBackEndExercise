@@ -1,0 +1,22 @@
+﻿@charset "utf-8";
+* { margin: 0px; padding: 0px;}
+body{ font:16px "Microsoft YaHei",微软雅黑; color:#333;}
+ol,ul { list-style:none; }
+a { color:#000;text-decoration:none; }
+a:hover{ color:#dd1a00; }
+img { border:0;  vertical-align:middle;}
+.clear { clear:both; font-size:0; height:0; line-height:0; overflow:hidden;}
+.red {color:red;}
+
+.wrapper{ width:980px; margin:0 auto;}
+
+p{line-height:40px; font-size:16px; color:#333;}
+
+a.qq{ margin-left:10px; width:20px;height:20px;display:inline-block;  background:url(../images/icons.gif?v150720) 0px 0px;}
+a.weixin{ margin-left:10px; width:26px;height:20px;display:inline-block;  background:url(../images/icons.gif?v150720) -50px 0px;}
+a.weibo{  margin-left:10px;width:20px;height:20px;display:inline-block;  background:url(../images/icons.gif?v150720) -100px 0px;}
+a.taobao{ margin-left:10px; width:26px;height:20px;display:inline-block;  background:url(../images/icons.gif?v150720) -150px 0px;}
+a.baidu{ margin-left:10px; width:20px;height:20px;display:inline-block;  background:url(../images/icons.gif?v150720) -200px 0px;}
+a.renren{ margin-left:10px; width:30px;height:20px;display:inline-block;  background:url(../images/icons.gif?v150720) -250px 0px;}
+a.jd{ margin-left:10px; width:22px;height:20px;display:inline-block;  background:url(../images/icons.gif?v150720) -300px 0px;}
+a.jumbot{ margin-left:10px; width:22px;height:20px;display:inline-block;  background:url(../images/icons.gif?v150720) -350px 0px;}

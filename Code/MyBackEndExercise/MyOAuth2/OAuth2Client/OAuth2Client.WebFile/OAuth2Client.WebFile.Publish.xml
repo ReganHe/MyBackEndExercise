@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="F:\jumbot\oauth2\oauth2client.net" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/CYQ.Data.dll" publishTime="12/09/2012 21:59:34" />
+    <file relUrl="OAuth2.0/weibo.aspx" publishTime="07/21/2015 22:27:26" />
+    <file relUrl="bin/CYQ.Data.xml" publishTime="06/08/2012 00:53:54" />
+    <file relUrl="Web.config" publishTime="07/23/2015 00:18:42" />
+    <file relUrl="static/images/icons.gif" publishTime="07/20/2015 00:13:13" />
+    <file relUrl="OAuth2.0/baidu.aspx" publishTime="07/21/2015 22:27:26" />
+    <file relUrl="OAuth2.0/jd.aspx" publishTime="07/21/2015 22:27:26" />
+    <file relUrl="static/css/common.css" publishTime="07/20/2015 00:11:41" />
+    <file relUrl="static/images/logo.jpg" publishTime="07/17/2015 17:39:59" />
+    <file relUrl="bin/OAuth2Client.WebFile.dll" publishTime="07/23/2015 00:22:02" />
+    <file relUrl="OAuth2.0/weixin.aspx" publishTime="07/21/2015 22:27:26" />
+    <file relUrl="Passport/Logout.aspx" publishTime="07/21/2015 22:27:26" />
+    <file relUrl="OAuth2.0/Go2AuthorizeURL.aspx" publishTime="07/21/2015 22:27:26" />
+    <file relUrl="OAuth2.0/qq.aspx" publishTime="07/21/2015 22:27:26" />
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="02/01/2014 14:20:40" />
+    <file relUrl="Passport/register_third.aspx" publishTime="07/21/2015 22:27:26" />
+    <file relUrl="OAuth2.0/renren.aspx" publishTime="07/21/2015 22:27:26" />
+    <file relUrl="bin/OAuth2Client.Common.dll" publishTime="07/23/2015 00:22:02" />
+    <file relUrl="_config/OAuth2.config" publishTime="07/23/2015 00:19:11" />
+    <file relUrl="OAuth2.0/jumbot.aspx" publishTime="07/21/2015 22:27:26" />
+    <file relUrl="Default.aspx" publishTime="07/23/2015 00:21:56" />
+    <file relUrl="OAuth2.0/oauth2.aspx" publishTime="07/21/2015 22:27:26" />
+    <file relUrl="OAuth2.0/taobao.aspx" publishTime="07/21/2015 22:27:26" />
+  </publishProfile>
+</publishData>
